@@ -9,4 +9,4 @@ python3 -m venv env
 source env/bin/activate
 pip3 install -r requirements.txt
 ```
-Nota: si siguel los pasos anteriores solo podra trabajar en local con CPU.
+Nota: si sigue los pasos anteriores solo podra trabajar en local con CPU.
